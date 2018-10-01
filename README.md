@@ -20,7 +20,7 @@ While learning deep learning, I never could just skim off one source. There were
 ### Prerequisites
 
 ```
-Python
+Python (2 or 3 any would suffice)
 ```
 
 ### Local Setup
